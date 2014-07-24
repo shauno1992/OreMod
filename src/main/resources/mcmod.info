@@ -1,0 +1,19 @@
+[
+{
+"modid": "OreMod",
+"name": "Ore Mod",
+"description": "A mod to add basic ores into Minecraft",
+"version": "0.1 ALPHA",
+"credits": "Created by Shauno1992",
+"logoFile": "",
+"mcversion": "1.7.10",
+"url": "",
+"updateUrl": "",
+"authors": [ "shauno1992" ],
+"parent":"",
+"screenshots": [],
+"dependencies": [
+	 "mod_MinecraftForge"
+]
+}
+]
