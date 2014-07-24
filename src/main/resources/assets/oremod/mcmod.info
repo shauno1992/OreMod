@@ -1,0 +1,18 @@
+[
+{
+    "modid": "OreMod",
+    "name": "Ore Mod",
+    "description": "Test Mod",
+    "version": "1.0",
+    "mcversion": 1.7.2",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "shauno1992"
+    ],
+    "credits": "Test credits",
+    "logoFile": "",
+    "screenshots": [
+    ]
+}
+]
